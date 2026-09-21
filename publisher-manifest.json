@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff7164413d06c46354fc3fd6",
+  "owner": "wdykarp",
+  "repo": "page-f6d6ae501263e4405e485cce",
+  "title": "飞毯加速(TanZ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f6d6ae501263e4405e485cce",
+      "a": "飞毯加速(TanZ)",
+      "b": "机场官网线路发布页",
+      "entity": "飞毯加速(TanZ)",
+      "brand": "飞毯加速(TanZ)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f0ae9742e1c72b052b6e543f353bfb58d5a42187f75ad8493076178fda263b6e",
+      "content": {
+        "primary_entity": "飞毯加速(TanZ)",
+        "keyword1": "飞毯加速(TanZ)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端：Windows、macOS、Android、iOS 及路由器各有对应版本，订阅链接通用，配置文件按客户端格式导入。",
+          "AI_CLIENTS_TITLE": "客户端与设备兼容",
+          "AI_CLOSING_TEXT": "访问飞毯加速(TanZ)客户端下载页获取配置，按设备安装后导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "快速开始使用",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版、团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，支持流媒体与专线加速，按年付有优惠。",
+          "AI_FAQ_ANSWER_1": "在飞毯加速(TanZ)用户中心复制订阅链接，打开对应客户端选择从剪贴板导入或扫描二维码，即可完成配置。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，指同一时间在线设备上限，超出后新设备无法连接。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线节点，针对游戏延迟优化，适合对稳定性和延迟有要求的用户。",
+          "AI_FAQ_ANSWER_4": "可以。联系客服说明需求，团队版支持定制路由与专属节点配置，周期视方案而定。",
+          "AI_FAQ_ANSWER_5": "年付方案为月付价格的十个月，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何导入订阅链接？",
+          "AI_FAQ_QUESTION_2": "套餐设备数量如何计算？",
+          "AI_FAQ_QUESTION_3": "旗舰版的专线加速有什么用？",
+          "AI_FAQ_QUESTION_4": "团队版可以定制吗？",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "套餐围绕流量、设备数与线路等级划分，按使用人数和场景选择即可。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线，适合游戏与高清视频。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属带宽。",
+          "AI_FEATURE_TITLE_1": "个人轻量使用",
+          "AI_FEATURE_TITLE_2": "进阶多设备",
+          "AI_FEATURE_TITLE_3": "团队与企业",
+          "AI_GUIDE_INTRO": "选择套餐、查看适配要求、按客户端文档导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "飞毯加速(TanZ)提供海外网络加速订阅，覆盖流媒体、游戏与日常浏览，按流量和设备数分档，支持多平台客户端导入使用。",
+          "AI_HERO_SUBTITLE": "多平台加速订阅服务",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，20 台设备",
+          "AI_PLANS_INTRO": "基础版适合个人轻量场景，旗舰版兼顾性能与性价比，团队版满足多人高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量和流量需求，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的客户端支持情况，阅读对应适配要求。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按文档完成配置并连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞毯加速(TanZ) 订阅服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chargy.cn",
+    "host": "chargy.cn"
+  },
+  "file_hashes": {
+    "index.html": "ac4972ccf723c9cd5e9e95d257828084587565b5ce19c1d4442b1d3983ec577e",
+    "sitemap.xml": "3a82ad8f84407b09c94f21fff3c9150d13a757aa8d52a47d5556cf248fa55214",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "10d755780b0a67b20916b3a69021f98acbafb3513ce25f2f93594ab118e4512e",
+    "robots.txt": "6e088d58b2b87019e2bed46fa3894fc75d6b113124f699d4e5029cdcea0bc2f8",
+    "856384dd9c9b531918b6070a679113a7.txt": "168af8af8a44901d08c4290351fcae7c8ee2370af53ad8faa46b4430daf85d1f"
+  },
+  "revision": "17cca06a93aabfea9fcc2dce6ab4c260b1923e4b1561dd87965ad43eb5d7a539"
+}
